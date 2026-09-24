@@ -212,6 +212,8 @@ and scale work around the pivot.
 Open the Properties window with F4, with a double-click on an actor, or with the
 **Properties** item on the right-click menu. The window shows the properties of every
 selected actor. If several actors are selected, the window edits all of them at once.
+With one actor selected, the window title names the actor. An actor that has a Label
+is titled by its Label, with the actor's name after it.
 
 Properties are grouped in categories. Click the plus sign to expand a category. Click a
 value to edit it. Bool properties show True and False. Enum properties show a drop-down
